@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.
 
-<!--
-**LumkoMtengwane/LumkoMtengwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+                                                       I'm Lumko😀
+---
+I have technical experience and interest in:
 
-Here are some ideas to get you started:
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+- LLM Development
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and tools:
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,docker,kubernetes,bash,postgres,mongodb,fastapi,flask,git,githubactions,aws,powershell" />
+
+<img src="https://cdn.simpleicons.org/mlflow" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/podman" width="48" height="48"/>
+
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LumkoMtengwane&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LumkoMtengwane&layout=compact&theme=tokyonight"/>
+</p>
