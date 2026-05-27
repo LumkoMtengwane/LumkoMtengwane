@@ -2,7 +2,7 @@
 
 ---
                                                        I'm Lumko😀
-                                          Data Scientist | Mentor | AI/ML Engineerer
+                                          Data Scientist | Mentor | AI/ML Engineer
 ---
 I have technical experience and interest in:
 
