@@ -26,7 +26,7 @@ Languages and tools:
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LumkoMtengwane&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-statss-extended-sigma-five.vercel.app/api?username=LumkoMtengwane&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LumkoMtengwane&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-statss-extended-sigma-five.vercel.app/api/top-langs/?username=LumkoMtengwane&layout=compact&theme=tokyonight"/>
 </p>
