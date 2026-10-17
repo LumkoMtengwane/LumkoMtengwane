@@ -23,10 +23,8 @@ Languages and tools:
 <img src="https://cdn.simpleicons.org/mlflow" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/podman" width="48" height="48"/>
 
-</p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-statss-extended-sigma-five.vercel.app/api?username=LumkoMtengwane&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-statss-extended-sigma-five.vercel.app/api/top-langs/?username=LumkoMtengwane&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LumkoMtengwane&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumkoMtengwane&layout=compact&theme=tokyonight"/>
 </p>
